@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ################################################################################
-#Create by: Daniel Boscia
+#Create by: Danielbosc
 #Date Created: 2023.08.28
 #Date Updated: 2023.08.30
 
