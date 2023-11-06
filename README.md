@@ -13,3 +13,6 @@ Add alias to ~/.zshrc or ~/.bashrc
 ```
 alias sdpctl_update='~/Scripts/sdpctl_update.sh'
 ```
+```
+sdpctl_update
+```
