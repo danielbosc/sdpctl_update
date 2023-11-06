@@ -3,7 +3,7 @@ Utility to update or install the Appgate sdpctl utility on macOS (https://github
 
 ### Install
 ```
-mv sdpctl_update.bin ~/Scripts/sdpctlt_update.sh
+mv ~/Downloads/sdpctl_update.bin ~/Scripts/sdpctlt_update.sh
 chmod 644 sdpctl_update.sh
 ```
 
