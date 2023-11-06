@@ -3,13 +3,13 @@ Utility to update or install the Appgate sdpctl utility on macOS (https://github
 
 ### Install
 ```
-mv sdpctl_update.bin ~/Scripts/sdpctlt_update.bin
-chmod 644 sdpctl_update.bin
+mv sdpctl_update.bin ~/Scripts/sdpctlt_update.sh
+chmod 644 sdpctl_update.sh
 ```
 
 ### Run
 
 Add alias to ~/.zshrc or ~/.bashrc
 ```
-alias sdpctl_update='~/Scripts/sdpctl_update.bin'
+alias sdpctl_update='~/Scripts/sdpctl_update.sh'
 ```
