@@ -1,5 +1,5 @@
 # sdpctl_update
-Utility to update the Appgate sdpctl utility on macOS
+Utility to update or install the Appgate sdpctl utility on macOS (https://github.com/appgate/sdpctl)
 
 ### Install
 ```
