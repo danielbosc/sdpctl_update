@@ -11,7 +11,7 @@ chmod 644 sdpctl_update.sh
 
 Add alias to ~/.zshrc or ~/.bashrc
 ```
-nano ~/Scripts/sdpctl_update.sh
+sudo nano ~/.zshrc
 ```
 ```
 alias sdpctl_update='~/Scripts/sdpctl_update.sh'
